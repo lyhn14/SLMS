@@ -13,7 +13,7 @@ If you are using XAMPP, copy the extracted source code folder and paste it into 
 Browse the PHPMyAdmin in the browser. i.e. http://localhost/phpmyadmin
 Create a new database naming "lms".
 Import the SQL file provided. The SQL file is known as "lms.sql" inside the "db" folder.
-Browse the Web Application in a browser. i.e.http://localhost/library_system/admin
+Browse the Web Application in a browser. i.e.http://localhost/slms14
 Admin Access
 
 Username: admin
